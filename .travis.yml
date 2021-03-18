@@ -7,7 +7,7 @@ env: PATH=/c/Python37:/c/Python37/Scripts:$PATH
 install:
   - pip install -r requirements.txt
 script:
-  - bash -c echo "Tests would go here"
+  - flake8 ./
 before_deploy:
   - pyinstaller "converter.spec"
 deploy:
