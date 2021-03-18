@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.com/lucasmaurice/Depense_Patch_Converter.svg?branch=master)](https://travis-ci.com/lucasmaurice/Depense_Patch_Converter)
+[![Build Status](https://travis-ci.com/lucasmaurice/Depence_Patch_Converter.svg?branch=master)](https://travis-ci.com/lucasmaurice/Depence_Patch_Converter)
 
-# Converter from Depense patch to wysiwyg patch
+# Converter from Depence patch to wysiwyg patch
